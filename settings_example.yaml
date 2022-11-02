@@ -1,0 +1,7 @@
+test_data_file: data_test.csv
+test_result_file: result.csv
+time_delta_session: 180
+required_columns:
+  - customer_id
+  - product_id
+  - timestamp
